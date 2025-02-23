@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tasinkamal78@gmail.com**
 
-- ⚡ Fun fact **I think i am sexy 🙂**
+- ⚡ Fun fact ** 🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
