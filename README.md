@@ -1,17 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mohammad Tasin</h1>
+<h1 align="center">👋 Hi, I'm Mohammad Tasin</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **C/C++/JAVA**
+- 🌱 I’m currently learning **Machine-Learning**
 
 - 📫 How to reach me **tasinkamal78@gmail.com**
 
-- ⚡ Fun fact ** 🙂**
+- 🎓 Studying CSE | International Islamic University Chittagong (IIUC)
+- 🏀 Sports Lover | Active in football, cricket and efootball
+- 📍 Based in Chittagong, Bangladesh
+
+
+✨ Philosophy
+
+Technology is a tool; humanity is the purpose. I aim to build systems that are not just efficient, but ethical. Good code is not only what works, but what can be understood, improved, and reused by others.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@myself_araf" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/crew_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="crew_x" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-tasin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
