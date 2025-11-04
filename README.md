@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tasin Ibn Musahar</h1>
-<h3 align="center">🎓 Studying CSE | International Islamic University Chittagong (IIUC) ⚽ Sports Lover | Active in football, cricket and efootball 📍 Based in Chittagong, Bangladesh ✨ Philosophy Technology is a tool; humanity is the purpose. I aim to build systems that are not just efficient, but ethical. Good code is not only what works, but what can be understood, improved, and reused by others.</h3>
+<h4 align="center">🎓 Studying CSE | International Islamic University Chittagong (IIUC) ⚽ Sports Lover | Active in football, cricket and efootball 📍 Based in Chittagong, Bangladesh ✨ Philosophy Technology is a tool; humanity is the purpose. I aim to build systems that are not just efficient, but ethical. Good code is not only what works, but what can be understood, improved, and reused by others.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammad-tasin22&label=Profile%20views&color=0e75b6&style=flat" alt="mohammad-tasin22" /> </p>
 
