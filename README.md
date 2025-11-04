@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammad-tasin22&show_icons=true&locale=en" alt="mohammad-tasin22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-tasin22&" alt="mohammad-tasin22" /></p>
+
